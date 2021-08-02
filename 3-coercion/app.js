@@ -1,7 +1,7 @@
 // Reference: https://www.youtube.com/watch?v=z4-8wMSPJyI&list=PLTo9PCskHpbHjtO9Dq4gC0DXhoqgCQFSN&index=4
 var i1 = 0;
 if (!i1) {
-    console.log("0 converts to false");
+    console.log(i1 + " converts to false");
 }
 var i2 = -0;
 if (!i2) {
