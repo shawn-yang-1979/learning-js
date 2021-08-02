@@ -1,4 +1,4 @@
-// Reference: https://www.youtube.com/watch?v=z4-8wMSPJyI&list=PLTo9PCskHpbHjtO9Dq4gC0DXhoqgCQFSN&index=4
+// Reference: https://www.youtube.com/watch?v=HvBg2I2pfhQ&list=PLTo9PCskHpbHjtO9Dq4gC0DXhoqgCQFSN&index=11
 // these are false
 console.log(false ? true: false);
 console.log(null ? true: false);
