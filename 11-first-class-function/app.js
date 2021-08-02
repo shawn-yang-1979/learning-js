@@ -26,3 +26,14 @@ var f2 = function (i, f) {
 }
 console.log(f2(3, function () { return 4; }));
 console.log("it can be used as param");
+
+var f3 = function () {
+    return 5;
+}
+var f4 = function () {
+    return function () {
+        return 6;
+    }
+}
+console.log(f3() + f4()());
+console.log("it can be a return value");
