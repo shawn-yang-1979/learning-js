@@ -1,4 +1,5 @@
 // Reference: https://www.youtube.com/watch?v=gvicrj31JOM
+
 var user = {
     firstName: "Shang-hua",
     lastName: "Yang",
